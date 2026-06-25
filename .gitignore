@@ -1,0 +1,10 @@
+.vs/
+x64/
+*.obj
+*.ilk
+*.pdb
+*.ipch
+*.db
+*.vsidx
+*.log
+*.recipe
